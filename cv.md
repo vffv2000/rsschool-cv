@@ -3,8 +3,8 @@
 # Contact Information:  
 Phone: +48571797197  
 E-mail: Bychinskiy.Valentin@mail.ru  
-LinkedIn - vffv2000  
-GitHub- vffv2000  
+LinkedIn - @vffv2000  
+GitHub- @vffv2000  
 Telegram: @vffv2000  
 
 # About me
