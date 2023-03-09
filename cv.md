@@ -49,7 +49,7 @@ while True:
 
 # Work experience  
 Participated in the hackathon from Hoster.by (January 2023) (4 place) - Asveta Project  
-As a Python backend developer  
+As a Python backend developer    
 •	worked with admin panel   
 •	Involved with admin panel and data models, as well as databases  
 Technician at OJSC DST No. five (July 2021 - August 2021)  
